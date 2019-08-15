@@ -2,6 +2,7 @@
 
 * [CS50 IDE](https://ide.cs50.io/)
 * [CS50 Reference](https://reference.cs50.net/)
+* [WHS CS50 Google Classroom](https://classroom.google.com/c/NDA5NzU1MDQ2ODda)
 
 ***
 
