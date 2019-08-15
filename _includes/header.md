@@ -1,4 +1,4 @@
 # [CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
-2018–2019
+WASILLA HIGH SCHOOL\\
+2019–2020
